@@ -6,7 +6,7 @@ const Home = () => {
             <h4 className="center">Home</h4>
             <p>Lorem rea  fesa fea fesa fsd af  o rdi  nfewan fn fiwna fnian iefn iu nfeiwan fiuenaw iufn
                 foeam foieasm oifmesaoi mfoesam foims oifmesaoi
-                vrmoisfzmoimfoarmfoia mf oaws if fmespoam ffpeosma opfmapsmpmfeajf0waj fj ejo ifjeaoiw cú de pinto
+                vrmoisfzmoimfoarmfoia mf oaws if fmespoam ffpeosma opfmapsmpmfeajf0waj fj ejo ifjeaoiw
             </p>
         </div>
 
